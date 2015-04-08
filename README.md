@@ -29,7 +29,7 @@ Perl, XML/Json, Javascript, Unix Shell, PowerShell
 Expert in software configuration methodologies: Agile, IBM ClearCase, Git/SVN/TFS
 
 ##Experience
-<br />Washington State University         Vancouver, WA Aug 2013 - Present
+###Washington State University         Vancouver, WA Aug 2013 - Present
 <br />Research Assistant
 	
 – A Resource Allocation middleware for distributed system
@@ -44,7 +44,7 @@ Expert in software configuration methodologies: Agile, IBM ClearCase, Git/SVN/TF
 <br />Use Python, Hive and Pig to implement MapReduce jobs to verify the scheduler
 
 
-Diebold                            Shanghai, China Sep 2008 - Aug 2013
+###Diebold                            Shanghai, China Sep 2008 - Aug 2013
 <br />Senior Software Engineer/SCM Administrator	
 
 – Enhanced Operator Assistant Suite
@@ -84,7 +84,6 @@ Alcatel-Lucent           Shanghai, China   Jan 2006 - Aug 2008
 
 
 ##Leadership and Service
-
 <br />2015 MESA Mobile Apps Challenge Code Judge , Vancouver, WA
 <br />2013-Present WSU Research Assistantship, Washington State University, Vancouver, WA
 
