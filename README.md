@@ -29,7 +29,7 @@ Perl, XML/Json, Javascript, Unix Shell, PowerShell
 Expert in software configuration methodologies: Agile, IBM ClearCase, Git/SVN/TFS
 
 ##Experience
-###Washington State University         
+**Washington State University**
 <br /> Vancouver, WA Aug 2013 - Present
 <br />Research Assistant
 	
@@ -45,7 +45,7 @@ Expert in software configuration methodologies: Agile, IBM ClearCase, Git/SVN/TF
 <br />Use Python, Hive and Pig to implement MapReduce jobs to verify the scheduler
 
 
-###Diebold
+**Diebold**
 <br /> Shanghai, China Sep 2008 - Aug 2013
 <br />Senior Software Engineer/SCM Administrator	
 
@@ -61,7 +61,7 @@ System maintenance and technical support for China Construction Bank
 <br />Technical lead - controlled schedule, dealt with cross team issues, conf-call with PM in States
 <br />Excelled in Agile application development, drafted the design doc, coding, and unit tests
 
-Alcatel-Lucent           
+**Alcatel-Lucent**           
 <br /> Shanghai, China   Jan 2006 - Aug 2008
 <br />Software Engineer	
 
