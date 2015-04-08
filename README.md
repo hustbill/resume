@@ -1,6 +1,6 @@
 
 
-**Hua Zhang**
+##Hua Zhang
 
 <br />360-553-2393 (mobile)
 <br />2406 NE 139TH ST X226 Vancouver, WA 98686	
@@ -8,7 +8,7 @@
 <br />https://github.com/hustbill
 
 
-Technical Skills
+##Technical Skills
 
 An innovative software engineer with 7 years of development experience, and had expertise in:
 
@@ -28,7 +28,7 @@ Perl, XML/Json, Javascript, Unix Shell, PowerShell
 
 Expert in software configuration methodologies: Agile, IBM ClearCase, Git/SVN/TFS
 
-**Experience**
+##Experience
 <br />Washington State University         Vancouver, WA Aug 2013 - Present
 <br />Research Assistant
 	
@@ -83,13 +83,13 @@ Alcatel-Lucent           Shanghai, China   Jan 2006 - Aug 2008
 <br />Implement two features: device alarms management and batch uploading files.
 
 
-**Leadership and Service**
+##Leadership and Service
 
 <br />2015 MESA Mobile Apps Challenge Code Judge , Vancouver, WA
 <br />2013-Present WSU Research Assistantship, Washington State University, Vancouver, WA
 
 
-**Education**
+##Education
 <br />Washington State University	Vancouver, WA
 <br />M.S. in Engineering and Computer Science	2015
 <br />Huazhong University of Science and Technology	Wuhan, China
@@ -97,7 +97,7 @@ Alcatel-Lucent           Shanghai, China   Jan 2006 - Aug 2008
 <br />Yangtze University	Jingzhou, China
 <br />B.S. in Mechanical Engineering	2002
 
-Certifications and Training
+##Certifications and Training
 <br />PMP    Shanghai 10/2010
 <br />Six Sigma Green belt certification  Shanghai 02/2010
 <br />IBM Rational (UCM ClearCase and ClearQuest, Build Forge)   North Canton, Ohio 06/2009
