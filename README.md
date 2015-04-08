@@ -1,6 +1,6 @@
 Hua Zhang
 360-553-2393 (mobile)
-2406 NE 139TH ST X226  Vancouver, WA 98686
+2406 NE 139TH ST X226  Vancouver, WA 98686          
 https://github.com/hustbill
  hua.zhang@wsu.edu
  
@@ -17,7 +17,7 @@ Expert in software configuration methodologies: Agile, IBM ClearCase, Git/SVN/TF
  
 **Experience**
  **Washington State University **                Vancouver, WA Aug 2013 - Present
-Research Assistant  
+Research Assistant                                                                                                       
 –   A Resource Allocation middleware for distributed system
 Design a resource allocation strategy in data sensitive environment
 Implement this strategy by Java/Scala, Maven/SBT and AKKA 2.3.5
@@ -29,7 +29,7 @@ Setup a multi-node Hadoop cluster by Virtualbox and Ubuntu on the lab
 Use Python, Hive and Pig to implement MapReduce jobs to verify the scheduler
  
 **Diebold**           Shanghai, China Sep 2008 - Aug 2013
-Senior Software Engineer/SCM Administrator  
+Senior Software Engineer/SCM Administrator                                                             
 –   Enhanced Operator Assistant Suite
 A turn-key maintenance solution for Bank operators on Opteva and Haibao ATMs
 Platform: .NET framework/C++/C#
@@ -69,14 +69,14 @@ Implement two features: device alarms management and batch uploading files.
  2013-Present WSU Research Assistantship, Washington State University, Vancouver, WA
  
 **Education**
-Washington State University                      Vancouver, WA 
-M.S. in Engineering and Computer Science          May 2015
-Huazhong University of Science and Technology      Wuhan, China
-M.S. in Software Engineering                      Dec 2005
-Yangtze University                                 Jingzhou, China
-B.S. in Mechanical Engineering                     June 2002
+Washington State University                                                                             Vancouver, WA 
+M.S. in Engineering and Computer Science                                                         May 2015
+Huazhong University of Science and Technology                                            Wuhan, China
+M.S. in Software Engineering                                                                                Dec 2005
+Yangtze University                                                                                                Jingzhou, China
+B.S. in Mechanical Engineering                                                                              June 2002
  
 **Certifications and Training**
- PMP                                                 Shanghai 10/2010
- Six Sigma Green belt certification               Shanghai 02/2010
- IBM Rational (UCM ClearCase and ClearQuest, Build Forge)     North Canton, Ohio 06/2009
+ PMP                                                                                                               Shanghai 10/2010
+ Six Sigma Green belt certification                                                                    Shanghai 02/2010
+ IBM Rational (UCM ClearCase and ClearQuest, Build Forge)         North Canton, Ohio 06/2009
