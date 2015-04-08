@@ -30,7 +30,7 @@ Expert in software configuration methodologies: Agile, IBM ClearCase, Git/SVN/TF
 
 ##Experience
 **Washington State University**
-Vancouver, WA Aug 2013 - Present
+<br />Vancouver, WA Aug 2013 - Present
 <br />Research Assistant
 	
 – A Resource Allocation middleware for distributed system
@@ -62,7 +62,7 @@ System maintenance and technical support for China Construction Bank
 <br />Excelled in Agile application development, drafted the design doc, coding, and unit tests
 
 **Alcatel-Lucent**           
-Shanghai, China   Jan 2006 - Aug 2008
+<br />Shanghai, China   Jan 2006 - Aug 2008
 <br />Software Engineer	
 
 – Developed data management solutions and Web applications for China Mobile, China Unicom and T-mobile
