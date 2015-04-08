@@ -69,12 +69,14 @@ SDM provides comprehensive solution for managing subscriber related data.
 Platform:  Unix/C++/Java/XML/MySQL Cluster
 Responsible for the complete encode/decode implementation 
 Increased call attempts per second by 60% by introducing multi-threading mechanism to achieve more efficient CPU usage in SDM
+
 – ngHLR (Lawful Interception Feature)
 Lawful interception offers a complete system for transparently intercepting and extracting real
 time information from the vast amounts of voice, data and multimedia communications
 Platform:    Unix/Java/XML/SOAP
 High level design and low level design, develop with SOAP
 Feature implementation through cooperation with US colleagues for T-Mobile
+
 –  CPEMS(Customer Premise Equipment management System)
 CPEMS is a Browser/Server system that is used to manage customer-posted devices
 Platform: .Net Remoting, ASP.NET,ADO.NET, XML and SQLServer
